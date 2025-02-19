@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "03a4",
+      "name": "Mirfayz",
+      "email": "mir@gamail.com",
+      "password": "mir123"
+    },
+    {
+      "id": "281b",
+      "name": "Jasur",
+      "email": "jasur@gmail.com",
+      "password": "jas"
+    },
+    {
+      "id": "8a22",
+      "name": "ravshan",
+      "email": "r@gmail.com",
+      "password": "root123"
+    }
+  ],
+  "posts": [
+    {
+      "id": "5181",
+      "lessonName": "Salomgdwdgyw",
+      "videos": [
+        {
+          "name": "dwdwd",
+          "url": "wdw"
+        }
+      ],
+      "userId": "03a4"
+    },
+    {
+      "lessonName": "dcede3",
+      "videos": [
+        {
+          "name": "dwd",
+          "url": "d2e32"
+        }
+      ],
+      "userId": "03a4",
+      "id": "365f"
+    },
+    {
+      "id": "fc26",
+      "lessonName": "weq",
+      "videos": [
+        {
+          "name": "ew",
+          "url": "eqw"
+        },
+        {
+          "name": "e",
+          "url": "ewq"
+        }
+      ],
+      "userId": "8a22"
+    }
+  ]
+}
